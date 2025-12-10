@@ -7,7 +7,7 @@ import sys
 
 
 st.set_page_config(
-    page_title="Analytics Gastronómico",
+    page_title="Examen Modulo 1",
     page_icon="🍽️",
     layout="wide",
     initial_sidebar_state="expanded"
@@ -36,7 +36,7 @@ st.markdown("""
     
     /* === ESTILO DE LAS TARJETAS KPI (METRIC) === */
     div[data-testid="stMetric"] {
-        /* Cambio clave: Fondo GRIS OSCURO/AZULADO para contraste */
+        /* Fondo GRIS OSCURO/AZULADO para contraste */
         background-color: #262730 !important; 
         border: 1px solid #41444d;
         padding: 15px;
