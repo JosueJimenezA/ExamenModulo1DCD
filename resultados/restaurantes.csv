@@ -1,0 +1,131 @@
+placeID,rest_latitude,rest_longitude,rest_city,rest_state,num_tipos_cocina,nivel_estacionamiento,rating_promedio_historico,price,alcohol,smoking_area,dress_code,accessibility
+135085,22.150802,-100.98268,San Luis Potosi,San Luis Potosi,1.0,1,1.3333333333333333,medium,No_Alcohol_Served,not permitted,informal,no_accessibility
+135038,22.155651,-100.977767,San Luis Potosi,San Luis Potosi,1.0,0,1.2083333333333333,medium,No_Alcohol_Served,section,informal,no_accessibility
+132825,22.1473922,-100.983092,San Luis Potosi,San Luis Potosi,1.0,0,1.28125,low,No_Alcohol_Served,none,informal,completely
+135060,22.156883,-100.978485,San Luis Potosi,San Luis Potosi,1.0,0,1.1363636363636365,medium,No_Alcohol_Served,none,informal,no_accessibility
+135104,22.17655535,-100.8445762,?,?,1.0,1,0.8571428571428571,medium,Full_Bar,not permitted,informal,completely
+132740,22.17655535,-100.8445762,Ciudad Victoria,Tamaulipas,1.0,0,0.75,low,No_Alcohol_Served,permitted,informal,completely
+132663,22.17655535,-100.8445762,Ciudad Victoria,Tamaulipas,1.0,0,0.5,low,No_Alcohol_Served,none,informal,completely
+132732,22.17655535,-100.8445762,Ciudad Victoria,Tamaulipas,1.0,0,0.625,low,No_Alcohol_Served,none,casual,completely
+132630,22.17655535,-100.8445762,Ciudad Victoria,Tamaulipas,1.0,0,1.1666666666666667,low,No_Alcohol_Served,none,informal,completely
+132584,22.17655535,-100.8445762,?,?,1.0,1,1.3333333333333333,medium,No_Alcohol_Served,not permitted,informal,completely
+132733,22.17655535,-100.8445762,Ciudad Victoria,Tamaulipas,1.0,1,1.3,medium,No_Alcohol_Served,not permitted,informal,completely
+132560,22.17655535,-100.8445762,Ciudad Victoria,Tamaulipas,1.0,1,0.5,low,No_Alcohol_Served,permitted,informal,no_accessibility
+132613,22.17655535,-100.8445762,Ciudad Victoria,Tamaulipas,1.0,1,1.1666666666666667,medium,No_Alcohol_Served,permitted,informal,completely
+132667,22.17655535,-100.8445762,Ciudad Victoria,Tamaulipas,1.0,0,1.25,low,No_Alcohol_Served,none,informal,completely
+132660,22.17655535,-100.8445762,Ciudad Victoria,Tamaulipas,1.0,0,1.4,low,No_Alcohol_Served,none,informal,completely
+135088,22.122991749999997,-100.8445762,Cuernavaca,Morelos,1.0,1,1.0,low,No_Alcohol_Served,not permitted,informal,no_accessibility
+132583,22.122991749999997,-100.8445762,Cuernavaca,Morelos,1.0,0,1.0,low,No_Alcohol_Served,not permitted,informal,partially
+132608,22.17655535,-100.8445762,Ciudad Victoria,Tamaulipas,1.0,1,1.0,low,No_Alcohol_Served,permitted,informal,completely
+132609,22.17655535,-100.8445762,Ciudad Victoria,Tamaulipas,1.0,1,0.6,low,No_Alcohol_Served,not permitted,informal,completely
+132665,22.17655535,-100.8445762,Ciudad Victoria,Tamaulipas,1.0,0,0.8,low,No_Alcohol_Served,none,informal,completely
+132668,22.17655535,-100.8445762,Ciudad Victoria,Tamaulipas,1.0,0,1.0,low,No_Alcohol_Served,none,informal,completely
+132715,22.17655535,-100.8445762,?,?,1.0,0,1.0,low,No_Alcohol_Served,none,informal,no_accessibility
+132717,22.17655535,-100.8445762,?,?,1.0,1,1.3333333333333333,medium,No_Alcohol_Served,not permitted,informal,partially
+132594,22.17655535,-100.8445762,?,?,1.0,1,0.6,low,No_Alcohol_Served,not permitted,informal,completely
+132564,22.17655535,-100.8445762,?,?,1.0,0,1.25,low,No_Alcohol_Served,none,informal,completely
+135071,22.126375,-100.910926,San Luis Potosi,San Luis Potosi,2.0,1,1.0,medium,Full_Bar,section,informal,no_accessibility
+132626,22.17655535,-100.8445762,Ciudad Victoria,Tamaulipas,1.0,1,1.25,medium,No_Alcohol_Served,none,informal,completely
+134987,22.122991749999997,-100.8445762,Cuernavaca,Morelos,1.0,0,1.0,medium,Wine-Beer,none,informal,no_accessibility
+135034,22.140517000000003,-101.021422,San Luis Potosi,San Luis Potosi,1.0,0,1.9090909090909087,medium,No_Alcohol_Served,none,informal,no_accessibility
+132723,22.1489337,-101.019845,?,San Luis Potosi,1.0,1,1.4166666666666667,medium,Full_Bar,section,informal,completely
+135046,22.141282,-101.002958,San Luis Potosi,San Luis Potosi,1.0,1,1.2727272727272727,medium,No_Alcohol_Served,none,informal,no_accessibility
+135075,22.139573,-100.991564,San Luis Potosi,San Luis Potosi,1.0,1,1.6923076923076923,medium,No_Alcohol_Served,none,informal,no_accessibility
+132572,22.141647100000004,-100.9927118,San Luis Potosi,San Luis Potosi,1.0,1,1.0,low,No_Alcohol_Served,not permitted,informal,completely
+135074,22.149689,-100.999525,San Luis Potosi,San Luis Potosi,1.0,1,1.75,high,Wine-Beer,section,informal,no_accessibility
+135028,22.146658,-100.987219,San Luis Potosi,San Luis Potosi,1.0,0,1.5333333333333334,medium,Wine-Beer,none,informal,no_accessibility
+135032,22.152481,-100.973486,San Luis Potosi,San Luis Potosi,2.0,1,1.1785714285714286,medium,Wine-Beer,section,informal,no_accessibility
+135086,22.141421,-101.013955,San Luis Potosi,San Luis Potosi,2.0,1,0.8,medium,No_Alcohol_Served,not permitted,informal,no_accessibility
+135058,22.165587,-101.001273,San Luis Potosi,San Luis Potosi,1.0,1,1.1111111111111112,medium,No_Alcohol_Served,none,informal,no_accessibility
+135001,22.122991749999997,-100.8445762,Cuernavaca,Morelos,1.0,1,1.4285714285714286,medium,Wine-Beer,none,informal,completely
+134983,22.122991749999997,-100.8445762,Cuernavaca,Morelos,2.0,1,1.0,high,Full_Bar,section,informal,no_accessibility
+134996,22.122991749999997,-100.8445762,Cuernavaca,Morelos,1.0,1,1.5555555555555556,medium,Wine-Beer,only at bar,informal,no_accessibility
+135019,22.122991749999997,-100.8445762,Jiutepec,Morelos,1.0,0,1.3333333333333333,low,No_Alcohol_Served,none,informal,completely
+134976,22.122991749999997,-100.8445762,?,?,3.0,1,1.75,low,No_Alcohol_Served,none,informal,no_accessibility
+134999,22.122991749999997,-100.8445762,Cuernavaca,Morelos,1.0,0,1.6,medium,No_Alcohol_Served,none,informal,no_accessibility
+135018,22.122991749999997,-100.8445762,Cuernavaca,Morelos,1.0,1,1.5,medium,Full_Bar,permitted,informal,completely
+135013,22.122991749999997,-100.8445762,Jiutepec,Morelos,1.0,0,1.75,low,No_Alcohol_Served,none,informal,no_accessibility
+134986,22.122991749999997,-100.8445762,Cuernavaca,Morelos,1.0,1,1.9090909090909087,high,Wine-Beer,none,formal,no_accessibility
+132767,22.122991749999997,-100.8445762,Jiutepec,Morelos,1.0,1,1.1666666666666667,medium,Wine-Beer,permitted,casual,partially
+135016,22.122991749999997,-100.8445762,Cuernavaca,Morelos,1.0,0,1.0,medium,No_Alcohol_Served,none,informal,no_accessibility
+135011,22.122991749999997,-100.8445762,Jiutepec,Morelos,1.0,0,1.3333333333333333,medium,No_Alcohol_Served,none,informal,no_accessibility
+135109,22.122991749999997,-100.8445762,?,?,1.0,0,1.0,medium,Wine-Beer,not permitted,informal,no_accessibility
+134975,22.122991749999997,-100.8445762,?,?,1.0,2,1.6666666666666667,high,Full_Bar,section,informal,completely
+135021,22.122991749999997,-100.8445762,Cuernavaca,Morelos,1.0,1,1.3333333333333333,low,No_Alcohol_Served,not permitted,informal,no_accessibility
+132768,22.122991749999997,-100.8445762,Cuernavaca,Morelos,1.0,0,1.6,medium,No_Alcohol_Served,not permitted,casual,partially
+135000,22.122991749999997,-100.8445762,Cuernavaca,Morelos,1.0,0,1.25,medium,No_Alcohol_Served,none,informal,no_accessibility
+132766,22.122991749999997,-100.8445762,Cuernavaca,Morelos,1.0,1,0.6666666666666666,medium,Wine-Beer,none,informal,no_accessibility
+134992,22.122991749999997,-100.8445762,Cuernavaca,Morelos,1.0,1,1.0,high,Wine-Beer,section,casual,no_accessibility
+132773,22.122991749999997,-100.8445762,Cuernavaca,Morelos,2.0,0,1.5,low,Wine-Beer,permitted,informal,no_accessibility
+132561,22.17655535,-100.8445762,?,?,1.0,0,0.75,low,No_Alcohol_Served,none,informal,completely
+132706,22.17655535,-100.8445762,Ciudad Victoria,Tamaulipas,1.0,1,0.75,medium,No_Alcohol_Served,not permitted,informal,no_accessibility
+132654,22.17655535,-100.8445762,Ciudad Victoria,Tamaulipas,1.0,0,0.4545454545454547,low,No_Alcohol_Served,none,informal,completely
+135051,22.151189,-100.977058,San Luis Potosi,San Luis Potosi,1.0,0,1.4285714285714286,low,No_Alcohol_Served,section,informal,no_accessibility
+135025,22.14955,-100.97797,San Luis Potosi,San Luis Potosi,1.0,0,1.6666666666666667,medium,No_Alcohol_Served,none,informal,no_accessibility
+135049,22.135011,-101.0286,San Luis Potosi,San Luis Potosi,1.0,0,1.0,medium,No_Alcohol_Served,none,informal,no_accessibility
+135106,22.149708800000003,-100.9760928,San Luis Potosi,San Luis Potosi,1.0,0,1.2,medium,Wine-Beer,only at bar,informal,partially
+135072,22.149192000000003,-101.002936,San Luis Potosi,San Luis Potosi,1.0,0,1.25,medium,No_Alcohol_Served,none,informal,no_accessibility
+132755,22.153324,-101.0195459,San Luis Potosi,San Luis Potosi,1.0,1,1.8,medium,No_Alcohol_Served,none,informal,partially
+135044,22.141848,-100.997475,San Luis Potosi,San Luis Potosi,1.0,0,1.25,medium,No_Alcohol_Served,none,informal,no_accessibility
+135048,22.142017000000003,-100.999246,San Luis Potosi,San Luis Potosi,1.0,1,1.0,high,Wine-Beer,none,informal,no_accessibility
+135047,22.150921,-100.993828,San Luis Potosi,San Luis Potosi,1.0,1,1.1,high,Wine-Beer,section,informal,no_accessibility
+132754,22.1477379,-100.9906163,San Luis Potosi,San Luis Potosi,1.0,0,1.4615384615384615,medium,No_Alcohol_Served,none,informal,partially
+135076,22.17655535,-100.973614,San Luis Potosi,San Luis Potosi,1.0,1,1.3076923076923077,high,Wine-Beer,none,informal,no_accessibility
+135063,22.156724,-100.975556,San Luis Potosi,San Luis Potosi,1.0,0,1.25,medium,No_Alcohol_Served,none,informal,no_accessibility
+135042,22.159357,-100.973411,San Luis Potosi,San Luis Potosi,1.0,0,1.25,medium,No_Alcohol_Served,none,informal,no_accessibility
+135053,22.17655535,-101.012861,San Luis Potosi,San Luis Potosi,3.0,1,1.125,high,No_Alcohol_Served,section,informal,no_accessibility
+135081,22.164842,-100.960493,San Luis Potosi,San Luis Potosi,1.0,0,1.1818181818181819,medium,No_Alcohol_Served,none,informal,no_accessibility
+135062,22.153703,-100.979033,San Luis Potosi,San Luis Potosi,1.0,1,1.2380952380952381,medium,No_Alcohol_Served,none,informal,no_accessibility
+135069,22.140129,-100.944872,San Luis Potosi,San Luis Potosi,1.0,1,0.5,low,Wine-Beer,none,informal,no_accessibility
+135057,22.145992,-100.955118,San Luis Potosi,San Luis Potosi,1.0,1,1.2666666666666666,medium,Wine-Beer,section,informal,no_accessibility
+135043,22.17655535,-100.944518,Soledad,San Luis Potosi,2.0,0,0.8888888888888888,medium,No_Alcohol_Served,none,informal,no_accessibility
+135039,22.145893,-100.97487,San Luis Potosi,San Luis Potosi,1.0,1,1.25,low,No_Alcohol_Served,section,informal,no_accessibility
+135052,22.150981,-100.977412,San Luis Potosi,San Luis Potosi,2.0,0,1.28,high,Full_Bar,none,informal,no_accessibility
+135030,22.14788,-100.989472,San Luis Potosi,San Luis Potosi,2.0,0,1.5833333333333333,medium,No_Alcohol_Served,none,informal,no_accessibility
+135027,22.147145,-100.974494,San Luis Potosi,San Luis Potosi,1.0,0,0.875,medium,Wine-Beer,none,informal,no_accessibility
+132830,22.1508494,-100.9397522,?,?,1.0,0,0.9166666666666666,low,No_Alcohol_Served,none,informal,completely
+135108,22.1362534,-100.9335852,San Luis Potosi,?,1.0,0,1.1818181818181819,low,No_Alcohol_Served,none,informal,completely
+135050,22.174887,-100.970825,Soledad,San Luis Potosi,1.0,1,1.25,high,Wine-Beer,none,informal,no_accessibility
+135070,22.152918,-100.915164,San Luis Potosi,San Luis Potosi,1.0,1,0.875,medium,No_Alcohol_Served,none,informal,no_accessibility
+135041,22.15106,-100.977659,San Luis Potosi,San Luis Potosi,2.0,0,1.1764705882352942,medium,Wine-Beer,none,informal,no_accessibility
+135082,22.151448,-100.915099,San Luis Potosi,San Luis Potosi,1.0,0,0.7777777777777778,medium,No_Alcohol_Served,none,informal,no_accessibility
+135054,22.140626,-100.915657,San Luis Potosi,San Luis Potosi,1.0,1,1.0,high,No_Alcohol_Served,none,informal,no_accessibility
+135066,22.16835,-100.972466,San Luis Potosi,San Luis Potosi,1.0,1,1.5,high,Wine-Beer,section,informal,no_accessibility
+135026,22.148665,-101.001273,San Luis Potosi,San Luis Potosi,2.0,0,1.3636363636363635,high,Full_Bar,none,informal,no_accessibility
+135059,22.145108,-100.989547,San Luis Potosi,San Luis Potosi,1.0,1,1.6666666666666667,medium,Wine-Beer,section,informal,no_accessibility
+135065,22.14958,-100.999557,San Luis Potosi,San Luis Potosi,1.0,0,1.1111111111111112,high,Wine-Beer,section,informal,no_accessibility
+135079,22.156376,-100.998355,San Luis Potosi,San Luis Potosi,1.0,0,1.1764705882352942,high,No_Alcohol_Served,none,informal,no_accessibility
+135055,22.148854,-101.008472,San Luis Potosi,San Luis Potosi,1.0,1,1.7142857142857142,high,No_Alcohol_Served,section,informal,no_accessibility
+135080,22.145008,-100.997969,San Luis Potosi,San Luis Potosi,1.0,0,1.0,high,No_Alcohol_Served,section,informal,no_accessibility
+135064,22.154687,-100.996617,San Luis Potosi,San Luis Potosi,1.0,1,0.8823529411764706,high,No_Alcohol_Served,none,informal,no_accessibility
+135040,22.135617,-100.969709,San Luis Potosi,San Luis Potosi,1.0,1,0.4545454545454547,high,Wine-Beer,none,informal,no_accessibility
+135073,22.147175,-100.974269,San Luis Potosi,San Luis Potosi,2.0,1,1.5,high,Wine-Beer,section,informal,no_accessibility
+135033,22.14161,-100.973142,San Luis Potosi,San Luis Potosi,1.0,0,0.75,medium,No_Alcohol_Served,section,informal,no_accessibility
+135045,22.151189,-100.98179,San Luis Potosi,San Luis Potosi,1.0,1,1.4615384615384615,high,Wine-Beer,none,casual,no_accessibility
+132834,22.156469,-100.98554,San Luis Potosi,San Luis Potosi,1.0,1,1.0,low,No_Alcohol_Served,not permitted,casual,no_accessibility
+132845,22.1262926,-100.9007764,San Luis Potosi,San Luis Potosi,1.0,0,0.8,medium,No_Alcohol_Served,none,informal,no_accessibility
+132846,22.1422732,-100.9426537,San Luis Potosi,San Luis Potosi,1.0,0,1.4,low,No_Alcohol_Served,permitted,casual,no_accessibility
+132847,22.1443365,-100.9373825,San Luis Potosi,San Luis Potosi,1.0,0,1.1666666666666667,low,No_Alcohol_Served,none,informal,no_accessibility
+132851,22.136872,-100.9345736,San Luis Potosi,San Luis Potosi,2.0,1,1.4285714285714286,low,No_Alcohol_Served,not permitted,informal,completely
+132854,22.1378633,-100.9383273,San Luis Potosi,San Luis Potosi,1.0,1,1.3333333333333333,medium,Wine-Beer,none,informal,completely
+132856,22.1513782,-100.9746337,San Luis Potosi,San Luis Potosi,1.0,0,0.8571428571428571,low,Wine-Beer,none,informal,completely
+132858,22.1312917,-100.9371941,San Luis Potosi,San Luis Potosi,1.0,0,0.8,low,No_Alcohol_Served,none,informal,completely
+132861,22.1480965,-101.0173023,San Luis Potosi,San Luis Potosi,1.0,1,1.4285714285714286,medium,No_Alcohol_Served,not permitted,informal,completely
+132862,22.1506429,-100.9870148,San Luis Potosi,San Luis Potosi,1.0,2,1.3888888888888888,high,Wine-Beer,none,casual,completely
+135035,22.145813,-101.018032,San Luis Potosi,San Luis Potosi,1.0,1,1.5,high,No_Alcohol_Served,section,informal,no_accessibility
+132866,22.1412198,-100.9313107,San Luis Potosi,San Luis Potosi,2.0,1,1.4,medium,No_Alcohol_Served,not permitted,informal,completely
+132869,22.1412384,-100.9239252,San Luis Potosi,San Luis Potosi,1.0,1,1.1666666666666667,medium,No_Alcohol_Served,not permitted,informal,no_accessibility
+132870,22.1430781,-100.9354788,San Luis Potosi,San Luis Potosi,1.0,0,0.6,low,No_Alcohol_Served,not permitted,informal,no_accessibility
+132875,22.1499013,-100.9937793,?,?,1.0,2,1.125,high,Wine-Beer,section,informal,no_accessibility
+132877,22.1353639,-100.9349477,?,?,1.0,0,0.75,low,No_Alcohol_Served,none,informal,completely
+132884,22.139577600000003,-101.0278863,?,?,1.0,0,1.1666666666666667,low,No_Alcohol_Served,none,informal,completely
+132872,22.1735955,-100.9946027,San Luis Potosi,Mexico,1.0,1,0.9166666666666666,medium,No_Alcohol_Served,not permitted,informal,partially
+132885,22.17655535,-100.9584358,San Luis Potosi,San Luis Potosi,1.0,1,0.6,low,No_Alcohol_Served,none,informal,completely
+132921,22.150305,-100.9891337,?,?,1.0,0,1.2352941176470589,low,Wine-Beer,section,casual,completely
+132922,22.1511348,-100.9823115,?,?,1.0,0,1.8333333333333333,medium,No_Alcohol_Served,permitted,formal,completely
+132925,22.1534997,-100.976243,?,?,1.0,0,1.0,medium,Wine-Beer,not permitted,informal,completely
+132951,22.1544736,-100.98580909999998,San Luis Potosi,San Luis Potosi,1.0,1,1.0,low,No_Alcohol_Served,not permitted,casual,completely
+132937,22.1500193,-100.9799203,San Luis Potosi,San Luis Potosi,1.0,0,1.5,low,Full_Bar,section,informal,completely
+132954,22.1603808,-100.9880447,San Luis Potosi,San Luis Potosi,1.0,1,1.0,medium,No_Alcohol_Served,not permitted,informal,partially
+132955,22.147622,-101.0102749,San Luis Potosi,Mexico,1.0,0,1.9090909090909087,low,Wine-Beer,none,informal,completely
+132958,22.1449787,-101.0056829,San Luis Potosi,San Luis Potosi,1.0,0,1.6666666666666667,low,No_Alcohol_Served,none,informal,completely

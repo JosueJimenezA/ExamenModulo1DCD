@@ -1,0 +1,26 @@
+# Manipulación de Datos
+pandas
+numpy
+openpyxl
+
+# Visualización
+matplotlib
+seaborn
+plotly
+kaleido
+
+# Machine Learning y Estadística
+scikit-learn
+scipy
+varclushi
+
+# Dashboard Web
+streamlit
+
+# Notebooks y Utilidades
+nbconvert
+nbformat
+jupyterlab
+ipykernel
+
+Jinja2
